@@ -2,16 +2,7 @@
 
 ### A production-style MERN e-commerce application with secure authentication, Razorpay payments, a full admin panel and instant Telegram alerts.
 
-![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-7-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-Express_5-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-Mongoose_9-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Razorpay](https://img.shields.io/badge/Payments-Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Deployed-brightgreen?style=for-the-badge)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://full-stack-ecommerce-aadi.vercel.app)
-
----
-
+!
 ## 📖 About The Project
 
 This is a complete **full-stack e-commerce application** built from scratch with the **MERN stack** while learning and applying real-world development concepts.
