@@ -201,9 +201,9 @@ ACCESS_SECRET=your_access_token_secret
 REFRESH_SECRET=your_refresh_token_secret
 
 # Razorpay
-RAZORPAY_KEY_ID=your_razorpay_key_id
-RAZORPAY_KEY_SECRET=your_razorpay_key_secret
-RAZORPAY_WEBHOOK_SECRET=your_razorpay_webhook_secret
+RAZORPAY_KEY_ID=rzp_live_TsSJgQCJI7SO05
+RAZORPAY_KEY_SECRET=ljXOnvkEWa83E7KcGfke5n2b
+RAZORPAY_WEBHOOK_SECRET=
 
 # Cloudinary
 CLOUDINARY_CLOUD_NAME=your_cloud_name
